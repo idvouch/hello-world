@@ -1,2 +1,2 @@
 # hello-world
-learning how to build android apps
+learning how to build android apps for the good of the world
